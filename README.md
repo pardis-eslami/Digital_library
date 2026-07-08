@@ -122,13 +122,16 @@ Through this project, I practiced:
 ## Project Status
 
 Completed.  
-The bot currently runs locally using polling and is not deployed on a server yet.
+The bot currently runs locally using Telegram polling and is not deployed on a server yet. Future deployment can make the bot available online 24/7.
 
-## Team
+## Team & Roles
 
-**Project Manager & Lead Developer:** Mohammad Mahan Safaiyan  
-**Collaborator:** Pardis Jadid Eslami
+**Project Manager & Lead Developer:** [Mohammad Mahan Safaiyan](https://github.com/mahansafa)  
+Responsible for project management, core bot development, search engine implementation, dataset handling, Telegram bot logic, repository structure, and documentation.
 
-## Author
+**Collaborator:** [Pardis Jadid Eslami](https://github.com/pardis-eslami)  
+Contributed to project development, testing, content review, dataset review, and improvement suggestions.
 
-Developed by Mohammad Mahan Safaiyan and Pardis Jadid Eslami.
+## Credits
+
+This project was led and developed by Mohammad Mahan Safaiyan with collaboration from Pardis Jadid Eslami.
